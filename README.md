@@ -65,6 +65,7 @@ browser, not the model.
 
 ## Tools, skills and plugins
 
+- [AutoBot](https://github.com/demeyer1/Autobot) - A local ChatGPT and Codex project harness with on-disk memory, privacy zones and verifier-backed completion.
 - [Secure MCP Tunnel client](https://github.com/openai/tunnel-client) - Connects an MCP server on your own machine to ChatGPT without exposing it to the internet.
 - [ChatGPT developer mode](https://developers.openai.com/api/docs/guides/developer-mode) - How to add your own MCP server as a plugin.
 - [Computer use](https://developers.openai.com/api/docs/guides/tools-computer-use) - The API tool where you run the computer and the model decides the clicks.
