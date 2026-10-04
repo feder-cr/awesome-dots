@@ -62,6 +62,7 @@ browser, not the model.
 ## Memory
 
 - [mem0](https://github.com/mem0ai/mem0) - A memory layer for agents: what the user said, preferred and asked for, across sessions.
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha encrypted, append-only knowledge store with a Rust CLI and scoped, expiring MCP access.
 
 ## Tools, skills and plugins
 
